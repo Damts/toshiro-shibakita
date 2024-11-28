@@ -4,4 +4,5 @@ CREATE TABLE dados (
     Marca varchar(50),
     Lote int,
     Fornecedor varchar(50)
+    Host varchar(50)
 );
